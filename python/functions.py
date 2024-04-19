@@ -125,6 +125,8 @@ def analyze_function(function):
     #attributes
     print(format(attributes))
 
-#sum
+def main():
 
-analyze_function(sum)
+    analyze_function(sum)
+
+main()
