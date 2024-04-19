@@ -84,7 +84,7 @@ am new to using git, GitHub and am still learning python. **any and all support 
 
 ## Moving Forward
 I plan to create and actively update and use a project board to organize this projects development.
-I also Intend to use and update a vision board, both will be announced here when available.
+I intend to learn and use other features of Github as i learn.
 
 
 ## License
