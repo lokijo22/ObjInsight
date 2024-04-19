@@ -1,16 +1,30 @@
 ObjInsight
 ==========
 
+ObjInsight is an in-progress to-be Python module designed to facilitate quick analysis, deep investigation,
+and understanding of Python objects for both beginners and experienced programmers.
+
 ### By Lokiel Reed
 
 ---
 
-This project is meant to provide an easy to use, flexible and
-in depth view of python objects. It currently allows for the user
-to view an object's variables and methods as well as giving a brief
-description of each(as provided by their developer).
+## IMPORTANT - DISCLAIMER
+Due to the recentness of the projects creation and my newness to programming,
+**current functionality is very limited and rough**.
+_**THIS WILL IMPROVE**_ but will require time and work.
 
+## Features
 
+#### Implemented
+- A simple printout with basic information about a given python object (as specified in the file itself)
+- listing of methods stored in the object and a description of each (as provided by the authors of given methods)
+- listing of variables stored in a given object as well as their types
+
+#### Planned
+- improved formating for improved printout display readability
+- Various options and configurations to customize output and isolate desired information
+- implementation into a module
+- allow for users to input arguments from the command line
 
 ## Installation
 
@@ -60,13 +74,6 @@ Type:
 2. Open the command Palette with Ctrl + Shift + P (or Cmd + Shift + P on macOS)
 3.  type 'Run Python File in Terminal'
 4.  press 'Enter' 
-
-
-
-## IMPORTANT - First Release
-Due to the recentness of the projects creation and my newness to programming, current functionality
-is very limited and requires for a user to edit the python file to make it process the desired object.
-
 
 
 ## Contributions
