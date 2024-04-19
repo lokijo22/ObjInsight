@@ -49,14 +49,17 @@ Type:
 
 ### In Visual Studio Code:
 
-1.  Locate and open ObjInsight in VScode
+1.  Locate and open the ObjInsight fodler in the VScode editor
+
+**THEN**
+   
 2.  Press the run Button, usually located  in the top right corner(unless you have changed your configuration)
 
 **OR**
 
-1. Open the command Palette with Ctrl + Shift + P (or Cmd + Shift + P on macOS)
-2.  type 'Run Python File in Terminal'
-3.  press 'Enter' 
+2. Open the command Palette with Ctrl + Shift + P (or Cmd + Shift + P on macOS)
+3.  type 'Run Python File in Terminal'
+4.  press 'Enter' 
 
 
 
