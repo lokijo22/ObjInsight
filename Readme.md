@@ -10,18 +10,17 @@ and understanding of Python objects for both beginners and experienced programme
 
 ## IMPORTANT - DISCLAIMER
 Due to the recentness of the projects creation and my newness to programming,
-**current functionality is very limited and rough**.
-_**THIS WILL IMPROVE**_ but will require time and work.
+**current functionality is very limited**. 
 
 ## Features
 
 #### Implemented
-- A simple printout with basic information about a given python object (as specified in the file itself)
-- listing of methods stored in the object and a description of each (as provided by the authors of given methods)
-- listing of variables stored in a given object as well as their types
+- A single master file with the ObjInsight class
+- working methods to filter attributes of an object (variables, privates, publics, methods)
 
 #### Planned
-- improved formating for improved printout display readability
+- Example usage (in progress...)
+- printout display (in progress...)
 - Various options and configurations to customize output and isolate desired information
 - implementation into a module
 - allow for users to input arguments from the command line
